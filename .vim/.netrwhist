@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/ivan/projects/com/spimex/spx-modules/spx-tariff-module/src/widgets/basisPopup/parts/basesControls'
+let g:netrw_dirhist_9='/home/ivan/projects/com/spimex/spx-modules/spx-tariff-module/src/widgets/basisPopup/parts'
+let g:netrw_dirhist_8='/home/ivan/projects/com/spimex/spx-modules/spx-tariff-module/src/widgets/basisPopup'
+let g:netrw_dirhist_7='/home/ivan/projects/com/spimex/spx-modules/spx-tariff-module'
+let g:netrw_dirhist_6='/home/ivan/projects/com/spimex/spx-packages/spx-uikit-package'
+let g:netrw_dirhist_5='/home/ivan/projects/com/spimex/spx-modules/spx-tariff-module'
+let g:netrw_dirhist_4='/home/ivan/projects/com/spimex/spx-terminal'
+let g:netrw_dirhist_3='/home/ivan/projects/com/spimex/spx-packages/spx-uikit-package'
+let g:netrw_dirhist_2='/home/ivan/projects/com/spimex/spx-packages/spx-application-bus-package'
+let g:netrw_dirhist_1='/home/ivan/projects/com/spimex/spx-packages/spx-store-package'
